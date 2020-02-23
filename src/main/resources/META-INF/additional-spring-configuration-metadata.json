@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "myfreemp3.link.regex",
+      "type": "java.lang.String",
+      "description": "Regex for parsing link from myfreemp3."
+    }
+  ]
+}
